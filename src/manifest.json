@@ -1,7 +1,7 @@
 {
   "name": "Ionic Conference",
   "short_name": "Ionic Conference",
-  "start_url": "www/index.html",
+  "start_url": "index.html",
   "display": "standalone",
   "icons": [
     {
